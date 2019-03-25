@@ -102,6 +102,16 @@ author_info:
     affiliations:
       - Department of Biostatistics and Medical Informatics, University of Wisconsin-Madison
       - Morgridge Institute for Research
+
+  -
+    github: tbrittoborges
+    name: Thiago Britto-Borges
+    initials: TBB
+    orcid: 0000-0002-6218-4429
+    email: thiago.brittoborges@uni-heidelberg.de
+    affiliations:
+      - Department of Internal Medicine III and Klaus Tschira Institute for Integrative Computational Cardiology, University of Heidelberg
+      
   -
     github: cgreene
     name: Casey S. Greene
